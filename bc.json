@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e057f92a-17ed-48b1-9c51-ce8d9d0fee50.ws-us02.gitpod.io",
+    "address": "https://e6abde43-1bb0-4595-861f-71580ee71f23.ws-us02.gitpod.io",
     "editor": "gitpod",
     "outputPath": "./.breathecode/dist",
     "publicPath": "/preview",
